@@ -4,7 +4,7 @@
 Welcome to the *Cracking the Data Science Interview* Github page. Here you will find data science related links, tutorials, blog posts, code snippets, interview prep material, case studies, and more! Have fun!
 
 
-# Data Science Interview Preparation Materials
+# Data Science Practice Materials
 
 # General
 - [How Do I Prepare For a Data Science Interview (Quora)](https://www.quora.com/How-do-I-prepare-for-a-data-scientist-interview)
